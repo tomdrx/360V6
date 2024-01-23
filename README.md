@@ -47,4 +47,3 @@ A template for building OpenWrt with GitHub Actions
 websize:https://dartnode.com
 [![DartNode Logo](https://app.dartnode.com/assets/dash/images/brand/favicon.png)](https://dartnode.com)
 Please consider supporting DartNode as they are not only supporting us but also contributing to the open-source community.
-![89d431b3adab33d767d6aa17d397c03](https://github.com/tomdrx/bullet/assets/62591903/1a1c4a01-3a67-4791-b6de-2c195b199dac)
